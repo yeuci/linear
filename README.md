@@ -1,2 +1,2 @@
 # linear
-Linear algebra library in Rust
+Linear algebra library in C
